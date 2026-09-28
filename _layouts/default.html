@@ -1,0 +1,46 @@
+```html
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title | default: site.title }}</title>
+
+  <link rel="stylesheet"
+        href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+  <style>
+    .page-header {
+      padding: 2rem 1rem;
+    }
+
+    .project-name {
+      margin: 0;
+    }
+
+    .main-content {
+      padding-top: 2rem;
+    }
+  </style>
+</head>
+
+<body>
+
+<header class="page-header">
+  <div class="container">
+    <h1 class="project-name">
+      {{ site.title }}
+    </h1>
+  </div>
+</header>
+
+<main id="content" class="main-content">
+  <div class="container">
+    {{ content }}
+  </div>
+</main>
+
+</body>
+</html>
+```
