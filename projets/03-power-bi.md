@@ -23,7 +23,7 @@ Comment représenter simultanément le budget prévu, la tolérance d'écart et 
 
 Le dashboard permet de suivre les phases, coûts, délais et livrables et de faire ressortir les situations nécessitant une analyse.
 
-> Insérer ici une capture du dashboard.
+<img src="../images/proj7_powerBI_main.png" alt="Capture du dashboard Power BI" width="100%">
 
 ## Compétences mobilisées
 

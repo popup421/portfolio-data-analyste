@@ -37,6 +37,8 @@ BI / Analyse
 
 Le projet met en place une structure reproductible séparant les données proches de la source des données destinées à l'analyse.
 
+[📄 Consulter la documentation du projet DBT & Snowflake (PDF)](../pdf/projet_8_DBT_snowflake.pdf)
+
 ## Compétences mobilisées
 
 `dbt` `Snowflake` `SQL` `Data modelling` `Tests`
