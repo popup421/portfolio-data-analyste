@@ -17,7 +17,7 @@ Mon parcours associe une expérience de longue durée en informatique et gestion
 
 ## Compétences
 
-| Domaine               - | Compétences |
+| _____Domaine_____ | _____Compétences_____ |
 |---|---|
 | Analyse | Analyse exploratoire, statistiques descriptives et inférentielles (Chi², Spearman, Kruskal-Wallis), séries temporelles, détection d'outliers |
 | Python | pandas, scipy, scikit-learn, matplotlib, seaborn, Jupyter |
