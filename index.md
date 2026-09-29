@@ -9,15 +9,15 @@ title: Portfolio Data Analyst
 
 Je travaille sur des problématiques situées à l'interface entre **données, systèmes d'information et métier** : compréhension des flux, contrôle de la qualité, transformation, analyse et restitution.
 
-Mon parcours associe une expérience de longue durée en informatique et gestion de projets à une spécialisation récente en analyse de données.
+Mon parcours associe une expérience de longue durée en informatique et gestion de projets à une spécialisation en analyse de données.
 
 [Télécharger le portfolio complet (PDF)](pdf/portfolio_keyword_v2.pdf)
 
 ---
 
-## Ce que je sais faire
+## Compétences
 
-| Domaine | Compétences |
+| Domaine                | Compétences |
 |---|---|
 | Analyse | Analyse exploratoire, statistiques descriptives et inférentielles (Chi², Spearman, Kruskal-Wallis), séries temporelles, détection d'outliers |
 | Python | pandas, scipy, scikit-learn, matplotlib, seaborn, Jupyter |
