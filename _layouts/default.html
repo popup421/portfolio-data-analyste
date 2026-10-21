@@ -18,6 +18,11 @@
       margin: 0;
     }
 
+    .project-name a {
+      color: inherit;
+      text-decoration: none;
+    }
+
     .main-content {
       padding-top: 2rem;
     }
@@ -29,7 +34,7 @@
 <header class="page-header">
   <div class="container">
     <h1 class="project-name">
-      {{ site.title }}
+      <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
     </h1>
   </div>
 </header>
