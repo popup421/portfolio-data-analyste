@@ -39,4 +39,4 @@
 
 ## Document complet
 
-[Portfolio (PDF)](../pdf/portfolio_keyword_v2.pdf)
+[Voir le projet](../pdf/projet_9_Analyse%20indicateurs%20de%20vente%20et%20client-%20streaming%20musical%20.pdf)

@@ -57,7 +57,3 @@
 <td width="25%" style="width:25%;"></td>
 </tr>
 </table>
-
-## Document complet
-
-[Portfolio (PDF)](../pdf/portfolio_keyword_v2.pdf)

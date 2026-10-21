@@ -37,4 +37,4 @@
 
 ## Document complet
 
-[Portfolio (PDF)](../pdf/portfolio_keyword_v2.pdf)
+[Voir le projet](../pdf/projet_11_ACPClustering_tableau.pdf)
