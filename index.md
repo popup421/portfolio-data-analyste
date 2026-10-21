@@ -86,7 +86,7 @@ Analyse de 24 mois d'activité e-commerce : qualité des données, concentration
 
 Dashboard interactif à trois niveaux (monde → continent → pays) pour orienter l'investissement d'une ONG, publié sur Tableau Public.
 
-<a href="pdf/projet_10_tableau_Eaupotable.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-10-dwfa-dashboard-tableau-sur-l-acces-a-l-eau-potable.md)
+[Description du projet](projet/projet-10-dwfa-dashboard-tableau-sur-l-acces-a-l-eau-potable.md)
 
 ### 11 — La Poule qui chante : segmentation de marchés export
 **Python · scikit-learn · ACP · K-Means · Tableau**
