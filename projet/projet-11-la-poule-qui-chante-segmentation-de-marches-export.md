@@ -34,7 +34,3 @@
 <td width="25%" valign="top" style="width:25%;vertical-align:top;padding:4px;"><img src="../images/p11_image24.png" alt="Projet 11 - image 4" width="100%" style="width:100%;max-width:100%;height:auto;object-fit:contain;" /></td>
 </tr>
 </table>
-
-## Document complet
-
-[Voir le projet](../pdf/projet_11_ACPClustering_tableau.pdf)

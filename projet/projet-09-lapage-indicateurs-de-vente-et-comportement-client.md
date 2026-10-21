@@ -36,7 +36,3 @@
 <td width="25%" valign="top" style="width:25%;vertical-align:top;padding:4px;"><img src="../images/p9_image17.png" alt="Projet 9 - image 4" width="100%" style="width:100%;max-width:100%;height:auto;object-fit:contain;" /></td>
 </tr>
 </table>
-
-## Document complet
-
-[Voir le projet](../pdf/projet_9_Analyse%20indicateurs%20de%20vente%20et%20client-%20streaming%20musical%20.pdf)

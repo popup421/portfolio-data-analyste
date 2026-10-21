@@ -36,7 +36,3 @@
 <td width="25%" style="width:25%;"></td>
 </tr>
 </table>
-
-## Document complet
-
-[Voir le projet](../pdf/projet_12_KNN-rdmFor-reglog.pdf)
