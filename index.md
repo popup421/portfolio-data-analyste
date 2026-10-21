@@ -123,5 +123,4 @@ Formation récente en **Data Analyst**, avec approfondissement de Python, SQL, B
 ## Contact
 
 **LinkedIn :** [linkedin.com/in/severin-richard](https://linkedin.com/in/severin-richard)  
-**GitHub :** à compléter  
-**CV :** à ajouter
+
