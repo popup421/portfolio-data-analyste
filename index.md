@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio Data Analyst
+title: Séverin Richard - Portfolio Data Analyst
 ---
 
 # Data Analyst — Gestion de flux, Data Quality & BI
