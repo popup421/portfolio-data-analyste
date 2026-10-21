@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio Data Analyst
+title: Séverin Richard - Portfolio Data Analyst
 ---
 
 # Data Analyst — Gestion de flux, Data Quality & BI
@@ -44,9 +44,7 @@ Impact d'une nouvelle gamme de produits sur le chiffre d'affaires et la structur
 
 Analyse de la sous-nutrition mondiale (2013-2017) à partir de 4 bases FAO hétérogènes, avec une étude de cas ciblée (manioc en Thaïlande).
 
-<a href="pdf/projet_4_FAO.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-03-etude-fao-alimentation-dans-le-monde.md)
+<a href="pdf/projet_4_FAO.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-03-etude-fao-alimentation-dans-le-monde.md)
 
 ### 05 — DATAImmo : modélisation et analyse SQL du marché immobilier
 **SQLite · SQL · modélisation · RGPD**
@@ -60,9 +58,7 @@ Base relationnelle normalisée construite à partir de sources DVF, INSEE et gé
 
 Audit qualité, nettoyage et fusion de deux systèmes (ERP et Web), puis analyse de la concentration des ventes, de la marge et de la rotation de stock.
 
-<a href="pdf/projet_6_bottleneck.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-06-bottleneck-erp-web-e-commerce-vins-champagnes.md)
+<a href="pdf/projet_6_bottleneck.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-06-bottleneck-erp-web-e-commerce-vins-champagnes.md)
 
 ### 07 — Power BI : suivi d'avancement de projets IT & Marketing
 **Power BI · Power Query · DAX · schéma en étoile**
@@ -76,45 +72,35 @@ Tableau de bord multi-niveaux avec alerte automatique dès 15 % d'écart prévis
 
 Pipeline ELT sur 4 647 étudiants enrichis de données INSEE, pour un profilage démographique et une analyse de captation par région.
 
-<a href="pdf/projet_8_DBT_snowflake.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-08-analyse-demographique-des-etudiants-openclassrooms.md)
+<a href="pdf/projet_8_DBT_snowflake.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-08-analyse-demographique-des-etudiants-openclassrooms.md)
 
 ### 09 — Lapage : indicateurs de vente et comportement client
 **Python · pandas · scipy · statistiques inférentielles**
 
 Analyse de 24 mois d'activité e-commerce : qualité des données, concentration (Pareto, Gini), tests statistiques, détection de clients B2B et analyse de churn.
 
-<a href="pdf/projet_9_Analyse%20indicateurs%20de%20vente%20et%20client-%20streaming%20musical%20.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-09-lapage-indicateurs-de-vente-et-comportement-client.md)
+<a href="pdf/projet_9_Analyse%20indicateurs%20de%20vente%20et%20client-%20streaming%20musical%20.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-09-lapage-indicateurs-de-vente-et-comportement-client.md)
 
 ### 10 — DWFA : dashboard Tableau sur l'accès à l'eau potable
 **Tableau · dataviz · cadrage de mission**
 
 Dashboard interactif à trois niveaux (monde → continent → pays) pour orienter l'investissement d'une ONG, publié sur Tableau Public.
 
-<a href="pdf/projet_10_tableau_Eaupotable.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-10-dwfa-dashboard-tableau-sur-l-acces-a-l-eau-potable.md)
+<a href="pdf/projet_10_tableau_Eaupotable.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-10-dwfa-dashboard-tableau-sur-l-acces-a-l-eau-potable.md)
 
 ### 11 — La Poule qui chante : segmentation de marchés export
 **Python · scikit-learn · ACP · K-Means · Tableau**
 
 Segmentation de 127 pays selon des variables PESTEL pour identifier les marchés d'export prioritaires d'un exportateur de poulet bio.
 
-<a href="pdf/projet_11_ACPClustering_tableau.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-11-la-poule-qui-chante-segmentation-de-marches-export.md)
+<a href="pdf/projet_11_ACPClustering_tableau.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-11-la-poule-qui-chante-segmentation-de-marches-export.md)
 
 ### 12 — ONCFM : détection automatique de faux billets
 **Python · scikit-learn · classification · indice de confiance**
 
 Comparaison de 4 algorithmes de classification, quantification de la fiabilité des prédictions et pipeline de notebooks prêt pour la production.
 
-<a href="pdf/projet_12_KNN-rdmFor-reglog.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32"></a>
-
-[Description du projet](projet/projet-12-oncfm-detection-automatique-de-faux-billets.md)
+<a href="pdf/projet_12_KNN-rdmFor-reglog.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-12-oncfm-detection-automatique-de-faux-billets.md)
 
 ---
 
