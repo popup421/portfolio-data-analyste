@@ -44,7 +44,7 @@ Impact d'une nouvelle gamme de produits sur le chiffre d'affaires et la structur
 
 Analyse de la sous-nutrition mondiale (2013-2017) à partir de 4 bases FAO hétérogènes, avec une étude de cas ciblée (manioc en Thaïlande).
 
-<a href="pdf/projet_4_FAO.pdf" title="Voir le projet en PDF"><img src="images/icon_pdf.svg" alt="PDF" width="32" height="32" style="vertical-align:middle"></a> [Description du projet](projet/projet-03-etude-fao-alimentation-dans-le-monde.md)
+[Description du projet](projet/projet-03-etude-fao-alimentation-dans-le-monde.md)
 
 ### 05 — DATAImmo : modélisation et analyse SQL du marché immobilier
 **SQLite · SQL · modélisation · RGPD**
